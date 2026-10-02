@@ -19,8 +19,8 @@
 
 ## 출처
 
-- 일본 곡: ChordWiki (`ja.chordwiki.org`)가 우선. 이번 50곡은 모두 거기에서 verified로 가져옴.
-- 한국 곡: Ultimate Guitar가 우선. 이번 50곡은 모두 거기에서 가져옴(verified 47, uncertain 3).
+- 일본 곡: ChordWiki (`ja.chordwiki.org`)가 우선. `data/jpop-ani/songs.jsonl` 50곡, 모두 verified.
+- 한국 곡: Ultimate Guitar가 우선. `data/kpop-ballad/songs.jsonl` 162곡(verified 123, uncertain 39).
 - ChordTool은 코드 악보가 비어 있어 쓰지 않음. koreanchords.com은 여기서 DNS가 안 됨. e-chords.com은 526. 유료 악보 상점은 쓰지 않음. kpopchords.com은 무료 블로그로 일부 곡 코드가 있으나 이번 수집에서 저장된 건 없음.
 
 ## 새 장르
