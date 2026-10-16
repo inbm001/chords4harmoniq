@@ -6,6 +6,7 @@
 
 - `data/kpop-ballad/songs.jsonl` — K-pop·한국 발라드
 - `data/jpop-ani/songs.jsonl` — J-pop 애니송(OP/ED, 애니 관련곡)
+- `data/trot/songs.jsonl` — 트로트
 
 한 줄이 한 곡입니다. 가사 원문은 없고 코드 진행만 있습니다.
 
@@ -21,7 +22,8 @@
 
 - 일본 곡: ChordWiki (`ja.chordwiki.org`)가 우선. `data/jpop-ani/songs.jsonl` 50곡, 모두 verified.
 - 한국 곡: Ultimate Guitar가 우선. `data/kpop-ballad/songs.jsonl` 162곡(verified 123, uncertain 39).
-- ChordTool은 코드 악보가 비어 있어 쓰지 않음. koreanchords.com은 여기서 DNS가 안 됨. e-chords.com은 526. 유료 악보 상점은 쓰지 않음. kpopchords.com은 무료 블로그로 일부 곡 코드가 있으나 이번 수집에서 저장된 건 없음.
+- 트로트: `data/trot/songs.jsonl` 10곡, 모두 verified. Ultimate Guitar 6곡, kpopchords.com 4곡(임영웅 3, 홍진영 1). 대표곡 94곡을 찾아봤지만 나머지는 두 곳 모두 차트가 없었음. 트로트 차트는 무료 공개 사이트에 거의 없음.
+- ChordTool은 코드 악보가 비어 있어 쓰지 않음. koreanchords.com은 여기서 DNS가 안 됨. e-chords.com은 검색이 스크립트로만 동작해 쓰지 않음. 유료 악보 상점은 쓰지 않음. kpopchords.com은 무료 블로그로 일부 곡 코드가 있음(트로트 4곡 저장).
 
 ## 새 장르
 
